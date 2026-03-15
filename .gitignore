@@ -1,0 +1,22 @@
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.httr-oauth
+*.html
+Rplots.pdf
+
+# Output files (regenerate from scripts)
+*.png
+*.jpg
+*.pdf
+students.csv
+students.xlsx
+output.csv
+model.rds
+workspace.RData
+text_file.txt
+
+# OS
+.DS_Store
+Thumbs.db
