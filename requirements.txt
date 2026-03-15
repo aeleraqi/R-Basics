@@ -1,0 +1,14 @@
+# R package dependencies for R-Basics
+# Install all packages with:
+# install.packages(c("ggplot2","dplyr","tidyr","stringr","readr","readxl","writexl","jsonlite","reshape2","purrr"))
+
+ggplot2    # Data visualization
+dplyr      # Data manipulation
+tidyr      # Data reshaping
+stringr    # String manipulation
+readr      # Fast CSV reading
+readxl     # Read Excel files
+writexl    # Write Excel files
+jsonlite   # JSON parsing
+reshape2   # Data reshaping (melt/dcast)
+purrr      # Functional programming
